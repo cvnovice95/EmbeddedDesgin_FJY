@@ -1,0 +1,1 @@
+> i2c_master_mdoule.vhdl 是用VHDL实现I2C读写时序。
